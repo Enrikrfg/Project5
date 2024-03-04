@@ -4,7 +4,8 @@ import streamlit as st
 
 st.header('Datos sobre carros en USA')
 
-car_data = pd.read_csv('/Users/ramsesenriquefloresgomez/Desktop/DATASCIENTIST/Projecto 5/Project5/vehicles_us.csv') # leer los datos
+#car_data = pd.read_csv('/Users/ramsesenriquefloresgomez/Desktop/DATASCIENTIST/Projecto 5/Project5/vehicles_us.csv')  leer los datos localmente
+car_data = pd.read_csv('vehicles_us.csv') # leer los datos
 hist_button = st.button('Construir histograma') # crear un botón
         
 if hist_button: # al hacer clic en el botón
