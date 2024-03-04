@@ -6,7 +6,10 @@ Se añadieron 3 diferentes tipos de graficos que utilizan botones interactivos y
 1. Un encabezado con texto.
 2. Un histograma.
 3. Un gráfico de dispersión.
-4. Un botón o una casilla de verificación.
+4. Un botón o una casilla de verificación
 
+
+LINK AL PROYECTO:
+https://project5-ozj6.onrender.com/
 
   
